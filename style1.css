@@ -1,0 +1,43 @@
+body{
+   background-color:hsl(212, 45%, 89%);
+   
+}
+.cont1{
+   padding: 12px;   
+   padding-bottom: 17%;
+   background-color:hsl(0, 0%, 100%);
+   width: 250px;
+   height: 200px;
+   position: relative;
+   margin:150px auto;
+   border-radius: 5% ;
+}
+.cont2{
+   position:absolute;
+   background-color: aliceblue;
+   width: 240px;
+   height: 210px;
+   margin:auto;
+   border-radius: 5%;
+}
+img{
+   width: 250px;
+   height: 210px;
+   margin: auto;
+   border-radius: 5%;
+   
+}
+h3{
+   text-align: center;
+   font-weight: 400 700;
+   font-family: 'Merriweather', serif;
+   margin: 20px auto;
+   width: 250px;
+}
+p{
+   text-align: center;
+   font-weight: 400 700;
+   margin: 20px auto;
+   width: 250px;
+
+}
